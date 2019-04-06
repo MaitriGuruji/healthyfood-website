@@ -1,3 +1,4 @@
 # first-repo
-Food restaurent website
-full code
+restaurant website
+small project for college student 
+Bootstrape html css
